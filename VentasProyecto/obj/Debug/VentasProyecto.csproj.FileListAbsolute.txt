@@ -1,0 +1,10 @@
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\bin\Debug\VentasProyecto.exe.config
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\bin\Debug\VentasProyecto.exe
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\bin\Debug\VentasProyecto.pdb
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\obj\Debug\VentasProyecto.csprojAssemblyReference.cache
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\obj\Debug\VentasProyecto.Form1.resources
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\obj\Debug\VentasProyecto.Properties.Resources.resources
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\obj\Debug\VentasProyecto.csproj.GenerateResource.cache
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\obj\Debug\VentasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\obj\Debug\VentasProyecto.exe
+C:\Users\miria\source\repos\VentasProyecto\VentasProyecto\obj\Debug\VentasProyecto.pdb
